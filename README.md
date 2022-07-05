@@ -1,2 +1,2 @@
 # opt2022
-Curso de Optimización 2022
+Curso de Optimización Numérica 2022
