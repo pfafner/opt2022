@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# Métodos Numéricos II 2022
 
-You can use the [editor on GitHub](https://github.com/pfafner/opt2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: (1) Álgebra lineal computacional, (2) Optimización numérica continua, y (3) Optimización discreta. La primera parte el curso se enfoca en temas sobre cálculo de autovalores y autovectores, y la solución eficiente de sistemas lineales. En el segundo bloque, el bloque principal del curso, introduce los temas de optimización numérica, principalmente los métodos de gradiente y punto interior, así como métodos de la familia de gradiente conjugado y métodos quasi-Newton. El tema culmina haciendo un estudio de la teoría de optimización restricta, particularmente programación lineal y programación cuadrática. Finalmente, en el tercer bloque, hacemos una introducción a algunos métodos de optimización combinatoria y discreta. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Importante!!** El curso cuenta con una parte práctica extensiva, en la que el estudiante implementará en código computacional cada uno de los algoritmos estudiados. Parte fundamental del curso es utilizar las herramientas aprendidas en varios proyectos aplicados donde se trabajará con datos reales y comunicar los resultados mediante reportes técnicos y seminarios.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Prerrequisitos
 
-```markdown
-Syntax highlighted code block
+Se recomienda que los estudiantes antes del curso estén habituados con los temas:
+* Cálculo vectorial
+* Álgebra lineal (teoría)
+* Algunos elementos de análisis (convergencia de secuencias y series, análisis en Rn)
+* Métodos numéricos para una variable (*root finding*, *fitting*, *numerical differentiation and integration*)
+* Programación en Python.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Programa del curso
+<div id='id-programa'/>
 
-1. Numbered
-2. List
+[Programa del curso](programa/Programa-opt2022.pdf){:target="_blank"}
 
-**Bold** and _Italic_ and `Code` text
+### Horario
+<div id='id-horario'/>
 
-[Link](url) and ![Image](src)
-```
+* Martes y jueves de 19:50 a 21:25.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Office Hours
+<div id='id-office'/>
 
-### Jekyll Themes
+* Viernes de 19:00 a 20:00.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pfafner/opt2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Material del curso
+<div id='id-material'/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
+  -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
+  01       | 05.07.2022   | Introducción al curso. Normas matriciales. <br/>                              | Libro de Trefethen, Lecture 3.
+  
+  
+# Referencias
+<div id='id-ref'/>
+
+### Textos:
+
+* [L. Trefethen, L. Bau III (1997). *Numerical Linear Algebra*.](http://library.lol/main/079EA6C3FD8CDF23B0C2ACD901CA9A26){:target="_blank"}
+
+* [J. Nocedal, S. Wright (2006). *Numerical Optimization*.](http://library.lol/main/7016B74CFE6DC64C75864322EE4AA081){:target="_blank"}
+
+
+### Referencias adicionales:
+
+* [G.. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
+
+* [A. Quarteroni, R. Sacco, F. Saleri (2000). *Numerical Mathematics*.](http://library.lol/main/7D136BC80ECBF0BA65798EC129FCCAF4){:target="_blank"}
+
+* [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
+
+* [D. Griffiths, D. Higham (2010). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/61C367A31FBE7D8FD1E1A9129CED0B95){:target="_blank"}
+
+* [J. C. Butcher (2016). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/43A7A457B95E0443C75D23DC1B46FEE7){:target="_blank"} 
+
+* [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
+
+* [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
+
+* [S. Boyd, L. Vandenberghe (2009). *Convex Optimization*.](http://library.lol/main/A9A5D9C3CA105DB0F41AF39A6C89706C){:target="_blank"}
+
+* [C. Meyer (2001). *Matrix Analysis and Applied Linear Algebra*.](http://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E){:target="_blank"}
+
+
+### Referencias de Programación:
+
+* [Q. Kong, T. Siauw, A. Bayen (2021). *Python Programming and Numerical Methods - A Guide for Engineers and Scientists*.](http://library.lol/main/C243E02353CAB4D3A26F4DBD0527E133){:target="_blank"} <br/>
+  [Web version](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html){:target="_blank"}
+
+* [A. Gezerlis (2020). *Numerical Methods in Physics with Python*.](http://library.lol/main/16158CCB54986445C6EC84980B58DB7E){:target="_blank"}
+
+* [Jaan Kiusalaas (2013). *Numerical Methods in Engineering with Python 3*.](http://library.lol/main/8F89791F3C9338F2E23EEC2C7BF5403B){:target="_blank"}
+
+---
