@@ -57,10 +57,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 * [J. Stoer, R. Bulirsch (2002). *Introduction to Numerical Analysis*.](http://library.lol/main/04B36CA585EB49F5FDED7479823F2B50){:target="_blank"}
 
-* [D. Griffiths, D. Higham (2010). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/61C367A31FBE7D8FD1E1A9129CED0B95){:target="_blank"}
-
-* [J. C. Butcher (2016). *Numerical Methods for Ordinary Differential Equations*.](http://library.lol/main/43A7A457B95E0443C75D23DC1B46FEE7){:target="_blank"} 
-
 * [D. Luenberger, Y. Ye (2016). *Linear and Nonlinear Programming*.](http://library.lol/main/EB915E0FDCC8D3BA222B37C9A3DD6B4F){:target="_blank"}
 
 * [A. Izmailov, M. Solodov (2014). *Newton-type for Optimization and Variational Problems*.](http://library.lol/main/C8C3ED2461D9C8C2608595B223ABDD91){:target="_blank"}
