@@ -23,7 +23,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Martes y jueves de 19:50 a 21:25.
+* Martes y jueves de 18:10 a 19:45.
 
 ### Office Hours
 <div id='id-office'/>
@@ -38,7 +38,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
   01       | 05.07.2022   | Introducción al curso. Normas matriciales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Libro de Trefethen, Lecture 3.
   02       | 07.07.2022   | Ejemplos de normas matriciales. Descomposición espectral. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Libro de Trefethen, Lecture 4.
-  03       | 12.07.2022             |     |    
+  03       | 12.07.2022   | Descomposición SVD. Propiedades. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Libro de Trefethen, Lecture 5.
   
 # Referencias
 <div id='id-ref'/>
