@@ -40,6 +40,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   02       | 07.07.2022   | Ejemplos de normas matriciales. Descomposición espectral. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Libro de Trefethen, Lecture 4.
   03       | 12.07.2022   | Descomposición SVD. Propiedades. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Libro de Trefethen, Lecture 5.
   04       | 14.07.2022   | Ejemplo de SVD. Descomposición de Schur. Estabilidad. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Libro de Trefethen, Lecture 12.
+  .        |              |      | 
   
   
 # Referencias
