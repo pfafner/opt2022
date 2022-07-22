@@ -55,7 +55,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Referencias adicionales:
 
-* [R. Burden, A. Burden, D. J. Faires (20??). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
+* [R. Burden, A. Burden, D. J. Faires (2017). *Análisis numérico.*](http://library.lol/main/87525D7D988D11F87963D6832EAA9493){:target="_blank"}
 
 * [G. Golub, C. Van Loan (2012). *Matrix Computations*.](http://library.lol/main/72562A3A733C2E842BE163CA97D0FA7A){:target="_blank"}
 
