@@ -42,6 +42,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   04       | 14.07.2022   | Ejemplo de SVD. Descomposición de Schur. Estabilidad. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Libro de Trefethen, Lecture 12.
   05       | 19.07.2022   | Número de condición. Aritmética de punto flotante. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Libro de Trefethen, Lectures 13-15.
   06       | 21.07.2022   | Eliminación gaussiana. Factoracón LU y PA = LU.  <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Libro de Trefethen, Lecture 6.
+  .        |              |                 | 
+  
   
 # Referencias
 <div id='id-ref'/>
