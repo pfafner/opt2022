@@ -44,7 +44,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   06       | 21.07.2022   | Eliminación gaussiana. Factoracón LU y PA = LU.  <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Libro de Trefethen, Lecture 6.
   07       | 26.07.2022   | Gauss-Jordan. Estrategias de pivoteo.  <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Libro de Trefethen, Lecture 6. <br/> Burden y Faires, Cap. 6.
   08       | 26.07.2022   | Descomposición LL^T y LDL^T. <br/>  | Libro de Trefethen, Lecture 23.
-  L1       | 28.07.2022   |                 | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> *Fecha de entrega: martes 16 de agosto.*
+  L1       | 28.07.2022   |                 | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de agosto.**
   
   
 # Referencias
