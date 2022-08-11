@@ -43,10 +43,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   05       | 19.07.2022   | Número de condición. Aritmética de punto flotante. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Libro de Trefethen, Lectures 13-15.
   06       | 21.07.2022   | Eliminación gaussiana. Factoracón LU y PA = LU.  <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Libro de Trefethen, Lecture 6.
   07       | 26.07.2022   | Gauss-Jordan. Estrategias de pivoteo.  <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Libro de Trefethen, Lecture 6. <br/> Burden y Faires, Cap. 6.
-  08       | 26.07.2022   | Descomposición LL^T y LDL^T. <br/>  | Libro de Trefethen, Lecture 23.
+  08       | 26.07.2022   | Descomposición LL^T y LDL^T. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Libro de Trefethen, Lecture 23.
   L1       | 28.07.2022   |                 | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de agosto.**
-  09       | 02.08.2022   | Métodos iterativos para sistemas lineales. <br/>  | Libro de Trefethen, Lecture ??.
-  10       | 04.08.2022   | Factoración QR. <br/>  | Libro de Trefethen, Lecture ??.
+  09       | 02.08.2022   | Métodos iterativos para sistemas lineales. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Libro de Trefethen, Lecture ??.
+  10       | 04.08.2022   | Proyectores. Factoración QR. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lecture ??.
 
   
 # Referencias
