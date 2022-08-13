@@ -46,7 +46,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   08       | 26.07.2022   | Descomposición LL^T y LDL^T. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Libro de Trefethen, Lecture 23.
   L1       | 28.07.2022   |                 | [Lista 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 16 de agosto.**
   09       | 02.08.2022   | Métodos iterativos para sistemas lineales. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Libro de Quarteroni *et al.*, Cap. 4.
-  10       | 04.08.2022   | Proyectores. Factoración QR. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lecture ??.
+  10       | 04.08.2022   | Proyectores. Factoración QR. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 6-8 y 10.
   .        |              |                 |
   
   
