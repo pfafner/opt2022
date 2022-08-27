@@ -49,6 +49,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   10       | 04.08.2022   | Proyectores. Factoración QR. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 6-8 y 10.
   11       | 16.08.2022   | Cálculo de autovalores. Método de las Potencias. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Libro de Trefethen, Lecture ??.
   12       | 18.08.2022   | El método QR. | 
+  13       | 18.08.2022   | Matrices dispersas. | 
+  
 
   
 # Referencias
