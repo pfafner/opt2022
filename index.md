@@ -51,7 +51,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   12       | 18.08.2022   | El método QR. | 
   13       | 23.08.2022   | Matrices dispersas. | 
   14       | 25.08.2022   | Derivadas vectoriales y Cálculo matricial. |  
-  .        | 28.08.2022   |                          |  
 
   
 # Referencias
