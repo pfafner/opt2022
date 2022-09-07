@@ -52,7 +52,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   13       | 23.08.2022   | Matrices dispersas. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | 
   14       | 25.08.2022   | Derivadas vectoriales y Cálculo matricial. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} |  
   L2       | 01.09.2022   |                 | [Lista 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 20 de septiembre.**
-  16       | 01.09.2022   | Fundamentos de optimización. |  
+  16       | 01.09.2022   | Fundamentos de optimización. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
 
   
   
