@@ -48,7 +48,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   09       | 02.08.2022   | Métodos iterativos para sistemas lineales. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Libro de Quarteroni *et al.*, Cap. 4.
   10       | 04.08.2022   | Proyectores. Factoración QR. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Libro de Trefethen, Lectures 6-8 y 10.
   11       | 16.08.2022   | Cálculo de autovalores. Método de las Potencias. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Libro de Trefethen, Lecture ??.
-  12       | 18.08.2022   | El método QR. | 
+  12       | 18.08.2022   | El método QR. <br/> [Aula 12](aulas/Aula11.pdf){:target="_blank"} | 
   13       | 23.08.2022   | Matrices dispersas. | 
   14       | 25.08.2022   | Derivadas vectoriales y Cálculo matricial. |  
   L2       | 01.09.2022   |                 | [Lista 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 20 de septiembre.**
