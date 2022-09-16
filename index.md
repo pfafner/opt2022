@@ -54,7 +54,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L2       | 01.09.2022   |                 | [Lista 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: martes 20 de septiembre.**
   16       | 01.09.2022   | Fundamentos de optimización. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
   17       | 06.09.2022   | Condiciones de Optimalidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
-  18       | 08.09.2022   | Optimización Convexa. <br/>  |  
+  18       | 08.09.2022   | Optimización Convexa. <br/> [Aula 17](aulas/Aula16.pdf){:target="_blank"} |  
 
   
   
