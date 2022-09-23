@@ -56,8 +56,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   17       | 06.09.2022   | Condiciones de Optimalidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
   18       | 08.09.2022   | Optimización Convexa. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Boyd y Vandenberghe. Caps 1 y 2. 
   19       | 20.09.2022   | Descenso gradiente. <br/>  | 
-  
-  
+  20       | 21.09.2022   | Algoritmos de optimización 1-dimensional: *Golden search*, interpolación parabólica. | 
 # Referencias
 <div id='id-ref'/>
 
