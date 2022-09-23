@@ -55,6 +55,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   16       | 01.09.2022   | Fundamentos de optimización. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
   17       | 06.09.2022   | Condiciones de Optimalidad. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
   18       | 08.09.2022   | Optimización Convexa. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Boyd y Vandenberghe. Caps 1 y 2. 
+  19       | 20.09.2022   | Descenso gradiente. <br/>  | 
   
   
 # Referencias
