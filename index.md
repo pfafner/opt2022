@@ -57,6 +57,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   18       | 08.09.2022   | Optimización Convexa. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Boyd y Vandenberghe. Caps 1 y 2. 
   19       | 20.09.2022   | Descenso gradiente. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Nocedal y Wright.
   20       | 22.09.2022   | Algoritmos de optimización 1-dimensional. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Nocedal y Wright.
+  21       | 27.09.2022   | Condiciones de Wolfe y de Goldstein. *Backtracking*. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Nocedal y Wright.
+  21       | 29.09.2022   | Algoritmos de optimización 1-dimensional. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Nocedal y Wright.
   
   
 # Referencias
