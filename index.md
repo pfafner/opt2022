@@ -59,6 +59,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20       | 22.09.2022   | Algoritmos de optimización 1-dimensional. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Nocedal y Wright.
   21       | 27.09.2022   | Búsqueda en línea. Condiciones de Wolfe y de Goldstein. *Backtracking*. <br/>  | Nocedal y Wright.
   22       | 29.09.2022   | Convergencia. <br/>  | Nocedal y Wright.
+  L3       | 29.09.2022   |                 | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 13 de octubre.**
   
   
 # Referencias
