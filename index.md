@@ -62,6 +62,21 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L3       | 29.09.2022   |                 | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 13 de octubre.**
   
   
+# Proyectos
+<div id='id-proj'/>
+
+A continuación se listan algunos temas sugeridos para presentación de sus proyectos de curso.
+
+### Fechas importantes:
+
+  **No.**  | **Fecha**       |  .
+  -------- | --------------- | ---------------------------------------------------
+  1        | 21.10.2022      | Elección de tema de proyecto.
+  2        | 15.11.2022      | Entrega de presentación y reporte (borrador).
+  3        | 21-25.11.2022   | Presentación de Seminarios.
+  4        | 27.11.2022      | Entrega de versión final (Presentación, Reporte, Código).
+
+
 # Referencias
 <div id='id-ref'/>
 
