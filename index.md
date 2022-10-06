@@ -65,7 +65,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Proyectos
 <div id='id-proj'/>
 
-A continuación se listan algunos temas sugeridos para presentación de sus proyectos de curso. [Lista 3](proyectos/Temas_proyecto.pdf){:target="_blank"}
+A continuación se listan algunos temas sugeridos para presentación de sus proyectos de curso. [Temas-proyecto.pdf](proyectos/Temas_proyecto.pdf){:target="_blank"}
 
 ### Fechas importantes:
 
