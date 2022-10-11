@@ -61,7 +61,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   22       | 29.09.2022   | Convergencia. <br/>  | Nocedal y Wright.
   L3       | 29.09.2022   |                 | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 13 de octubre.**
   23       | 06.10.2022   | Estimación de la tasa de convergencia. <br/>  | Nocedal y Wright.
-  24       |              |   | Nocedal y Wright.
   
   
 # Proyectos
