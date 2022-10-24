@@ -62,6 +62,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L3       | 29.09.2022   |                 | [Lista 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: jueves 13 de octubre.**
   23       | 06.10.2022   | Estimación de la tasa de convergencia. <br/>  | Nocedal y Wright.
   24       | 11.10.2022   | Descenso Coordenado. Gradiente Proyectado. <br/>  | Nocedal y Wright.
+  25       | 13.10.2022   | Aplicaciones: Bases radiales gaussianas. <br/>  | 
   
   
 # Proyectos
