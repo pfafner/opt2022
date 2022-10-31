@@ -65,6 +65,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   25       | 13.10.2022   | Aplicaciones: Bases radiales gaussianas. <br/>  | 
   27       | 25.10.2022   | Métodos Cuasi-Newton: SR1, DFP, BFGS. <br/>  | 
   28       | 27.10.2022   | Optimización sin derivadas. Método de Nelder-Mead. <br/>  | 
+  29       |              |      | 
   
   
 # Proyectos
