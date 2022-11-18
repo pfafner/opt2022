@@ -69,7 +69,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   30       | 08.11.2022   | Búsqueda local. BFS, DFS, *Backgracking*. | 
   31       | 10.11.2022   | Hill-Climbing. Estrategias para problemas discretos. | 
   32       | 15.11.2022   | Enfriamiento simulado.                               | 
-  33       | 17.11.2022   | Algoritmos genéticos. Operadores de selección, cruce y mutación. | 
+  33       | 17.11.2022   | Algoritmos genéticos.  | 
+  34       | 18.11.2022   | Operadores de selección, cruce y mutación. Ejemplos. | 
   
   
 # Proyectos
