@@ -87,6 +87,15 @@ A continuación se listan algunos temas sugeridos para presentación de sus proy
   3        | 21-25.11.2022   | Presentación de Seminarios.
   4        | 27.11.2022      | Entrega de versión final (Presentación, Reporte, Código).
 
+### Temas presentados:
+
+**No.**  | **Fecha**    | **Conferencistas**                 | **Tópico**                                                                    
+-------- | ------------ | ---------------------------------- | --------------------------------------------------- 
+ 1       | 22.11.2021   | José Lucha                         | 
+ 2       | 22.11.2021   | Juan Lorthiois, Leonel Contreras   | 
+ 3       | 24.11.2021   | Oscar, Rafael Dubois               | 
+ 4       | 24.11.2021   | Carlos, Elder                      | 
+
 
 # Referencias
 <div id='id-ref'/>
