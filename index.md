@@ -91,10 +91,10 @@ A continuación se listan algunos temas sugeridos para presentación de sus proy
 
 **No.**  | **Fecha**    | **Conferencistas**                 | **Tópico**                                                                    
 -------- | ------------ | ---------------------------------- | --------------------------------------------------- 
- 1       | 22.11.2021   | José Lucha                         | 
- 2       | 22.11.2021   | Juan Lorthiois, Leonel Contreras   | 
- 3       | 24.11.2021   | Oscar, Rafael Dubois               | 
- 4       | 24.11.2021   | Carlos, Elder                      | 
+ 1       | 22.11.2021   | José Lucha                         |  El problema TPS
+ 2       | 22.11.2021   | Juan Lorthiois, Leonel Contreras   |  Un ejemplo de Programación Lineal
+ 3       | 24.11.2021   | Carlos Martínez, Elder Guzmán      |  Un problema de Asignación de Recursos
+ 4       | 24.11.2021   | Oscar Godoy, Rafael Dubois         |  El problema Knapsack
 
 
 # Referencias
