@@ -71,6 +71,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   32       | 15.11.2022   | Enfriamiento simulado.                               | 
   33       | 17.11.2022   | Algoritmos genéticos.  | 
   34       | 18.11.2022   | Operadores de selección, cruce y mutación. Ejemplos. | 
+  35       | 22.11.2022   | Presentación de seminarios.  | 
   
   
 # Proyectos
